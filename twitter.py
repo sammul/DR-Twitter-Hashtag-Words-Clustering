@@ -28,7 +28,6 @@ class StdOutListener(StreamListener):
 
 if __name__ == '__main__':
     
-    
     consumer_key=""
     consumer_secret=""
     access_token=""
